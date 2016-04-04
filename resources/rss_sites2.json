@@ -1,0 +1,10 @@
+{
+    "Name": "1stPeak.com",
+    "RSS List": [
+        "http://feeds.reuters.com/reuters/companyNews",
+        "http://www.cnbc.com/id/19854910/device/rss/rss.html",
+        "http://rss.cnn.com/rss/money_news_companies.rss",
+        "http://www.forbes.com/markets/feed/",
+        
+    ]
+}

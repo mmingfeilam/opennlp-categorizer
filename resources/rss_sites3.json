@@ -1,0 +1,28 @@
+[
+  {
+    "company": "Market Watch",
+    "rssFeeds": [
+      "http://feeds.marketwatch.com/marketwatch/StockstoWatch/",
+      "http://feeds.marketwatch.com/marketwatch/topstories/",
+      "http://feeds.reuters.com/reuters/companyNews"
+    ]
+  },
+  {
+    "company": "CNBC",
+    "rssFeeds": [
+      "http://www.cnbc.com/id/19854910/device/rss/rss.html"
+    ]
+  },
+  {
+    "company": "CNN",
+    "rssFeeds": [
+      "http://rss.cnn.com/rss/money_news_companies.rss"
+    ]
+  },
+  {
+    "company": "Forbes",
+    "rssFeeds": [
+      "http://www.forbes.com/markets/feed/"
+    ]
+  }
+]

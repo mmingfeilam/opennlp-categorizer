@@ -1,0 +1,83 @@
+1 	gain
+1 	bit of a bump
+1	Answer to Cable TV Woes
+1	bounce back
+0	underperformance
+1	like
+0 	don't like
+0 	dislike
+1 	Reliable Growth
+1	revenue growth
+1	Core Still Strong
+1	earnings up
+0	earnings down
+1 	good management
+0	bad management
+1	Stock price is going up
+0 	Stock price is going down
+0 	Suffering mightily
+0 	vulnerable
+0 	such concerns
+0 	wrong thing
+0 	piling stocks
+0	YouTube were hacked
+0	it can't pass profits along to its shareholders
+0	it should receive a passing score
+1	The higher the EPS is, the more money your shares of stock will be worth because investors are willing to pay more for higher profits
+1	EPS are increasing
+1	ROE has been increasing
+1	strong buy
+0	less than a buy
+1 	pass
+0	fail
+0	failed
+1	consensus EPS forecast numbers increase year over year
+0	consensus EPS forecast numbers do not increase year over year
+1	Long Term 5-year number is greater than 8%
+0	Long Term 5-year number is less than 8%
+1	PEG Ratio a passing score if its value is less than 1.0
+0	Give the PEG Ratio a failing score if its value is greater than 1.0
+1	Give Industry Earnings a passing score if the company's earnings are higher than the industry's earnings
+0	Give Industry Earnings a failing score if the company's earnings are lower than the industry's earnings
+1	Give Days to Cover a passing score if the number of days is less than 2 days
+0	Give Days to Cover a failing score if the number of days is more than 2 days
+1	Give Insider Trading a passing score if the net activity for the past 3 months has been positive
+0	Give Insider Trading a failing score if the net activity for the past 3 months has been negative
+1	Give Weighted Alpha a passing score if the number is positive
+0	Give Weighted Alpha a failing score if the number is negative
+0	image problem
+0	broke the code of honor
+0	growing concern
+0	long term
+0	closed down
+0	bear market
+1	bull market
+0	reached a peak
+0	exploit
+0	short-term pullbacks
+0	wrong thing
+0 	investors nervous
+0	tech bubble
+0 	nosebleed
+0	over valuation
+1	jump an impressive
+1	Innovation and New Products
+1 	good fundamentals
+1	Buyback Hopes
+1	multibillion-dollar stock buyback
+1 	prevent dilution
+1	stock options
+1	future bright
+0	corporate profits had plunged 
+0	decline was still an ugly 11 percent
+0 	profit margin squeeze
+0	tighter labor markets
+0	rising wages
+0	weak productivity growth
+1	better than expected
+0	debable
+1	trades at over
+0	trades at under
+0	the stock fell
+0	greatest peak-to-trough decline
+0	worst annual performance ever
